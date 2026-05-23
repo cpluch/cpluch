@@ -12,7 +12,6 @@ Se uma ideia surgir na minha cabeça, vou me dedicar para construí-la e public�
 
 ### Minhas principais Stack de tecnologia são:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
